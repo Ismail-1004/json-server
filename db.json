@@ -1,0 +1,201 @@
+{
+    "products": [
+        {
+            "model": "Iphone Ismail",
+            "releaseYear": "123",
+            "category": "laptops",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true,
+            "id": 2
+        },
+        {
+            "id": 3,
+            "model": "Iphone 15 Pro Max",
+            "releaseYear": "",
+            "category": "laptops",
+            "price": "10$",
+            "addedData": "",
+            "isVisibleForUser": true
+        },
+        {
+            "id": 4,
+            "model": "Iphone 15 Pro Max",
+            "releaseYear": "",
+            "category": "laptops",
+            "price": "10$",
+            "addedData": "",
+            "isVisibleForUser": true
+        },
+        {
+            "id": 5,
+            "model": "Iphone 15 Pro Max",
+            "releaseYear": "",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "",
+            "isVisibleForUser": true
+        },
+        {
+            "id": 7,
+            "model": "Iphone",
+            "releaseYear": "",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "",
+            "isVisibleForUser": true
+        },
+        {
+            "id": 8,
+            "model": "Iphone",
+            "releaseYear": "",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Watch",
+            "releaseYear": "123",
+            "category": "mens-watches",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Macbook",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 Pro Max 12",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone 15 asdasdasd",
+            "releaseYear": "123",
+            "category": "smartphones",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true
+        },
+        {
+            "model": "Iphone David",
+            "releaseYear": "123",
+            "category": "smartphone",
+            "price": "10$",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true,
+            "id": 9
+        }
+    ],
+    "category": [
+        "smartphones",
+        "laptops",
+        "mens-watches",
+        "womens-watches"
+    ]
+}
