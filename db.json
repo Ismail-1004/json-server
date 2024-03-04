@@ -29,6 +29,16 @@
             "addedData": "2024-03-04",
             "isVisibleForUser": true,
             "id": 3
+        },
+        {
+            "model": "Rolex Women",
+            "releaseYear": "2021",
+            "category": "women-watches",
+            "price": "500",
+            "description": "Rolex for women",
+            "addedData": "2024-03-04",
+            "isVisibleForUser": true,
+            "id": 4
         }
     ],
     "category": [
