@@ -5,6 +5,7 @@
             "releaseYear": "2021",
             "category": "smartphones",
             "price": "10",
+            "description": "Iphone 15 Pro Max new",
             "addedData": "2024-03-04",
             "isVisibleForUser": true,
             "id": 1
@@ -14,6 +15,7 @@
             "releaseYear": "2023",
             "category": "laptops",
             "price": "100",
+            "description": "Macbook air 13 new",
             "addedData": "2024-03-04",
             "isVisibleForUser": true,
             "id": 2
@@ -23,6 +25,7 @@
             "releaseYear": "2021",
             "category": "mens-watches",
             "price": "500",
+            "description": "Rolex for men",
             "addedData": "2024-03-04",
             "isVisibleForUser": true,
             "id": 3
